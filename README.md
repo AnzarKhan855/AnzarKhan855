@@ -8,6 +8,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/AnzarKhan855?style=for-the-badge)](https://github.com/AnzarKhan855)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anzar%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anzar-khan-522b712ab/)
 
+📧 Email: anzark964@gmail.com
+
 ---
 
 # 👨‍💻 About Me

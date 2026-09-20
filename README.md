@@ -1,643 +1,1464 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Anzar%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Student&descAlignY=58&descSize=18" width="100%"/>
+# ANZAR KHAN
 
-# 👋 Hi, I'm Anzar Khan
+### AI/ML Engineer · Full-Stack Developer · Backend & Data Systems Builder
 
-### 🤖 AI Engineer • Full Stack Developer • AI/ML Student
-
-**Building intelligent software, scalable web applications, and AI-powered products.**
+**I build intelligent software systems that combine AI, analytics, backend engineering, and modern web technologies.**
 
 <br/>
 
 <a href="https://github.com/AnzarKhan855">
-<img src="https://komarev.com/ghpvc/?username=AnzarKhan855&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/GitHub-AnzarKhan855-181717?style=for-the-badge&logo=github" />
 </a>
-
-<a href="https://github.com/AnzarKhan855?tab=followers">
-<img src="https://img.shields.io/github/followers/AnzarKhan855?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-</a>
-
-<a href="https://github.com/AnzarKhan855?tab=repositories">
-<img src="https://img.shields.io/github/stars/AnzarKhan855?style=for-the-badge&logo=github&label=STARS"/>
-</a>
-
 <a href="https://www.linkedin.com/in/anzar-khan-522b712ab/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Anzar%20Khan-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <br/><br/>
 
-<a href="https://decisionlens-enterprise-analytics.vercel.app">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_DECISIONLENS-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://campusagent-ai.vercel.app">
-<img src="https://img.shields.io/badge/🎓_CAMPUSAGENT_AI-06B6D4?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=AnzarKhan855&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# Engineering Profile
 
-I'm **Anzar Khan**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning**.
+I am a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, focused on building practical software rather than isolated prototypes.
 
-I build **AI-powered full-stack applications**, backend systems, analytics platforms, and intelligent products using modern technologies.
+My projects span:
 
-My primary interests are:
-
-* 🤖 AI Engineering
-* 🧠 LLM Applications
-* 🔎 Retrieval-Augmented Generation
-* 🧩 Agentic AI
-* 🌐 Full Stack Development
-* ⚙️ Backend Engineering
-* 📊 Data Analytics
-* 🔮 Forecasting & Decision Intelligence
-* 🏗️ System Design
-* ☁️ Production AI Systems
-
-### 💭 My Approach
-
-```text
-        IDEA
-         │
-         ▼
-   ARCHITECTURE
-         │
-         ▼
-     DEVELOPMENT
-         │
-    ┌────┴────┐
-    ▼         ▼
- FRONTEND   BACKEND
-    │         │
-    └────┬────┘
-         ▼
-    DATA + AI
-         │
-         ▼
-      TESTING
-         │
-         ▼
-     DEPLOYMENT
-         │
-         ▼
-     PRODUCTION
-```
-
-> **I don't just want to build demos. I want to build systems that solve real problems.**
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 DecisionLens
-
-### Enterprise Decision Intelligence Platform
-
-> Transforming raw business datasets into **KPIs, analytics, anomalies, forecasts, recommendations, and AI-assisted decisions.**
-
-<div align="center">
-
-<a href="https://decisionlens-enterprise-analytics.vercel.app">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
-</a>
-
-</div>
-
-### 🔥 What DecisionLens Does
-
-```text
-                 BUSINESS DATA
-                       │
-                       ▼
-               DATA INGESTION
-                       │
-                       ▼
-               DATA PROFILING
-                       │
-                       ▼
-              DOMAIN DETECTION
-                       │
-                       ▼
-                KPI ENGINE
-                       │
-              ┌────────┼────────┐
-              ▼        ▼        ▼
-          ANALYTICS  ANOMALIES  TRENDS
-              │        │        │
-              └────────┼────────┘
-                       ▼
-                  FORECASTING
-                       │
-                       ▼
-                AI INSIGHTS
-                       │
-                       ▼
-              RECOMMENDATIONS
-                       │
-                       ▼
-                 AI COPILOT
-                       │
-                       ▼
-              BUSINESS DECISION
-```
-
-### ⚡ Features
-
-* 📂 Generic Dataset Ingestion
-* 🔍 Automatic Data Profiling
-* 🧠 Dataset / Domain Detection
-* 📊 Automated KPI Generation
-* 📈 Interactive Analytics
-* 🚨 Anomaly Detection
-* 🔮 Forecasting
-* 💡 Automated Insights
-* 🎯 AI Recommendations
-* 🤖 AI Copilot
-* 📑 Enterprise Reporting
-* 🏢 Workspace Architecture
-* 🔐 Authentication
-* 👥 Role-Based Access
-* ⚡ Analytics Caching
-* 🔌 REST APIs
-
-### 🛠️ Stack
-
-`Python` `FastAPI` `Pandas` `Next.js` `React` `TypeScript` `Tailwind CSS` `MongoDB` `PostgreSQL` `Machine Learning` `REST APIs`
-
----
-
-# 🎓 CampusAgent AI
-
-### Agentic AI Student Productivity Platform
-
-> An intelligent academic workspace combining **AI assistance, RAG, document intelligence, vector search, and productivity tools.**
-
-<div align="center">
-
-<a href="https://campusagent-ai.vercel.app">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/AnzarKhan855/campusagent-ai">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-### 🤖 AI Features
-
-* AI Command Center
-* AI Workspace
-* AI PDF Chat
+* Artificial Intelligence
+* Generative AI
+* Agentic AI
 * Retrieval-Augmented Generation
-* Semantic Search
-* Hugging Face Embeddings
-* Sentence Transformers
-* Qdrant Vector Database
-* Groq LLM
-* AI Practice Tests
+* Machine Learning
+* Full-Stack Development
+* Backend Engineering
+* Data Analytics
+* Decision Intelligence
+* Risk & Fraud Intelligence
+* Document Intelligence
+* Forecasting
+* Business Intelligence
+* API Architecture
+* Authentication & Authorization
+* Production Deployment
 
-### 📚 Productivity
+My development philosophy is simple:
+
+```text
+                         IDEA
+                           │
+                           ▼
+                    SYSTEM DESIGN
+                           │
+                           ▼
+                    ARCHITECTURE
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+          FRONTEND                  BACKEND
+              │                         │
+              └────────────┬────────────┘
+                           ▼
+                       DATA + AI
+                           │
+                           ▼
+                        TESTING
+                           │
+                           ▼
+                       SECURITY
+                           │
+                           ▼
+                       DEPLOYMENT
+                           │
+                           ▼
+                       PRODUCTION
+```
+
+> **I don't just build features. I build systems.**
+
+---
+
+# Technology Universe
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,html,css" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+
+### Databases & Data
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+### Engineering & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode" />
+
+</div>
+
+### AI / Data Stack
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                      AI / DATA ENGINEERING                    │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  LLMs                  RAG                  AI Agents         │
+│  ├─ Groq               ├─ Qdrant           ├─ Agent Memory   │
+│  ├─ LLM APIs           ├─ Embeddings        ├─ AI Commands   │
+│  └─ Evaluation         └─ Semantic Search   └─ Automation    │
+│                                                              │
+│  Machine Learning      Analytics            Intelligence     │
+│  ├─ Forecasting        ├─ Pandas            ├─ Risk Scoring  │
+│  ├─ Anomaly Detection  ├─ SQL               ├─ KPI Engines   │
+│  ├─ Classification     ├─ DuckDB            ├─ Explainability│
+│  └─ Prediction         └─ Power BI          └─ Recommendations│
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# Project Portfolio
+
+My projects represent a progression from **full-stack engineering → AI applications → agentic systems → enterprise analytics → AI-driven risk intelligence**.
+
+```mermaid
+flowchart LR
+    A["Resume Builder<br/>Full-Stack Foundations"]
+    B["EvalMentor AI<br/>LLM Applications"]
+    C["CampusAgent AI<br/>Agents + RAG"]
+    D["DecisionLens<br/>Decision Intelligence"]
+    E["RiskShield AI<br/>Risk + Fraud Intelligence"]
+
+    A --> B --> C --> D --> E
+
+    style A fill:#111827,color:#fff
+    style B fill:#172554,color:#fff
+    style C fill:#164e63,color:#fff
+    style D fill:#312e81,color:#fff
+    style E fill:#3f1d1d,color:#fff
+```
+
+---
+
+# 01 · DecisionLens
+
+## Enterprise Decision Intelligence & Analytics Platform
+
+> **DecisionLens transforms raw business datasets into executive KPIs, analytical insights, forecasts, recommendations, scenario simulations, and AI-assisted decisions.**
+
+<div align="center">
+
+### 🌐 Live Demo
+
+**https://decisionlens-enterprise-analytics.vercel.app/**
+
+### 📖 API Documentation
+
+**https://decisionlens-enterprise-analytics.onrender.com/docs**
+
+### 💻 Source Code
+
+**https://github.com/AnzarKhan855/decisionlens-enterprise-analytics**
+
+</div>
+
+---
+
+## What Problem Does DecisionLens Solve?
+
+Organizations often have enormous datasets but still depend on manual spreadsheets, dashboards, SQL queries, and analysts to answer basic executive questions:
+
+```text
+What happened?
+      ↓
+Why did it happen?
+      ↓
+What will happen?
+      ↓
+What should we do?
+```
+
+DecisionLens attempts to turn that entire analytical workflow into a single decision-intelligence platform.
+
+---
+
+## DecisionLens Pipeline
+
+```mermaid
+flowchart TD
+
+    DATA["Raw Business Data<br/>CSV / Parquet / ZIP"]
+    INGEST["Workspace Ingestion"]
+    PROFILE["Schema & Data Profiling"]
+    QUALITY["Data Quality Analysis"]
+    ENGINE["Universal Analytics Engine"]
+
+    KPI["Executive KPIs"]
+    TREND["Trend & Variance Analysis"]
+    ANOMALY["Anomaly Detection"]
+    FORECAST["Time-Series Forecasting"]
+
+    REC["Strategic Recommendations"]
+    SIM["Scenario Simulation"]
+    CENTER["Decision Center"]
+    COPILOT["Grounded AI Copilot"]
+    REPORT["Executive Reports"]
+
+    DATA --> INGEST
+    INGEST --> PROFILE
+    PROFILE --> QUALITY
+    QUALITY --> ENGINE
+
+    ENGINE --> KPI
+    ENGINE --> TREND
+    ENGINE --> ANOMALY
+    ENGINE --> FORECAST
+
+    KPI --> REC
+    TREND --> REC
+    ANOMALY --> REC
+    FORECAST --> REC
+
+    REC --> SIM
+    SIM --> CENTER
+    CENTER --> REPORT
+    CENTER --> COPILOT
+
+    style DATA fill:#111827,color:#fff
+    style ENGINE fill:#312e81,color:#fff
+    style CENTER fill:#047857,color:#fff
+    style COPILOT fill:#7c3aed,color:#fff
+```
+
+---
+
+## Core Capabilities
+
+### Data Intelligence
+
+* CSV ingestion
+* Parquet ingestion
+* Multi-table ZIP ingestion
+* Schema discovery
+* Column profiling
+* Data-quality analysis
+* Relational structure discovery
+* Workspace-scoped datasets
+
+### Business Analytics
+
+* KPI generation
+* Revenue analysis
+* Volume analysis
+* Growth/decline analysis
+* Category performance
+* Store performance
+* Product rankings
+* Time-series analysis
+
+### Predictive Intelligence
+
+* Forecasting
+* Trend detection
+* Historical analysis
+* Confidence intervals
+* Backtesting
+* Adaptive forecasting strategies
+
+### Prescriptive Intelligence
+
+* Strategic recommendations
+* Business levers
+* ROI-oriented recommendations
+* Scenario simulation
+* Sensitivity analysis
+* Executive decision cards
+
+### AI
+
+* Grounded AI Copilot
+* Natural-language analytics
+* Query-grounded answers
+* Analytical traceability
+* Out-of-domain guardrails
+
+---
+
+## Architecture
+
+```text
+                         ┌─────────────────────┐
+                         │     EXECUTIVE       │
+                         │      USER           │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                    ╔══════════════════════════╗
+                    ║       NEXT.JS UI         ║
+                    ║ Dashboard / Analytics    ║
+                    ║ Reports / Copilot        ║
+                    ╚════════════╤═════════════╝
+                                 │
+                                 ▼
+                    ╔══════════════════════════╗
+                    ║       FASTAPI API        ║
+                    ║ Auth / RBAC / Workspace  ║
+                    ╚════════════╤═════════════╝
+                                 │
+              ┌──────────────────┼──────────────────┐
+              ▼                  ▼                  ▼
+       ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+       │ Analytics   │    │ Forecasting │    │ AI Copilot  │
+       │ Engine      │    │ Engine      │    │             │
+       └──────┬──────┘    └──────┬──────┘    └──────┬──────┘
+              └──────────────────┼──────────────────┘
+                                 ▼
+                    ╔══════════════════════════╗
+                    ║      DATA LAYER          ║
+                    ║ DuckDB / Parquet /       ║
+                    ║ SQLite / MongoDB Atlas   ║
+                    ╚══════════════════════════╝
+```
+
+---
+
+## Technology
+
+`Python` `FastAPI` `Next.js` `React` `TypeScript` `Tailwind CSS` `Pandas` `NumPy` `DuckDB` `Parquet` `MongoDB Atlas` `SQLite` `Statsmodels` `Scikit-learn`
+
+---
+
+## Engineering Highlights
+
+* Workspace-aware data isolation
+* Asynchronous ingestion
+* Vectorized analytics
+* Large-scale Parquet processing
+* Multi-horizon forecasting
+* Scenario modeling
+* Grounded AI
+* JWT authentication
+* RBAC
+* Production API
+* Executive reporting
+* Automated backend testing
+
+---
+
+# 02 · RiskShield AI
+
+## AI-Powered Risk & Fraud Intelligence Platform
+
+> **RiskShield AI is my latest major project — an AI-powered platform for transaction risk analysis, fraud intelligence, explainable decisions, and investigation workflows.**
+
+### Current Status
+
+> 🚧 **Currently under active development and being prepared for deployment.**
+
+**No live demo is listed intentionally.**
+
+**No public API documentation link is listed intentionally.**
+
+### 💻 Repository
+
+**https://github.com/AnzarKhan855/riskshield-ai**
+
+---
+
+## What Problem Does RiskShield AI Solve?
+
+Modern digital transactions require more than a binary fraud flag.
+
+A practical risk system needs to answer:
+
+```text
+Is this transaction suspicious?
+        ↓
+Why is it suspicious?
+        ↓
+Which signals contributed?
+        ↓
+What should happen next?
+        ↓
+Can an analyst investigate it?
+        ↓
+Can the decision be audited?
+```
+
+RiskShield AI is designed around that complete workflow.
+
+---
+
+## Risk Intelligence Architecture
+
+```mermaid
+flowchart TD
+
+    TX["Transaction"]
+    FEATURES["Feature Engineering"]
+    ML["ML Risk Model"]
+    RULES["Hybrid Rule Engine"]
+    SCORE["Risk Score"]
+    LEVEL["Risk Level"]
+    DECISION["Decision Engine"]
+
+    EXPLAIN["Explainability"]
+    MERCHANT["Merchant Intelligence"]
+    DEVICE["Device Intelligence"]
+
+    CASE["Investigation Case"]
+    EVIDENCE["Evidence"]
+    AUDIT["Audit Trail"]
+    COPILOT["AI Copilot"]
+
+    TX --> FEATURES
+    FEATURES --> ML
+    TX --> RULES
+
+    ML --> SCORE
+    RULES --> SCORE
+
+    SCORE --> LEVEL
+    LEVEL --> DECISION
+
+    DECISION --> EXPLAIN
+    DECISION --> CASE
+
+    TX --> MERCHANT
+    TX --> DEVICE
+
+    CASE --> EVIDENCE
+    CASE --> AUDIT
+    EXPLAIN --> AUDIT
+
+    CASE --> COPILOT
+
+    style TX fill:#111827,color:#fff
+    style SCORE fill:#7f1d1d,color:#fff
+    style DECISION fill:#991b1b,color:#fff
+    style CASE fill:#312e81,color:#fff
+    style AUDIT fill:#047857,color:#fff
+```
+
+---
+
+## Core Modules
+
+### Transaction Intelligence
+
+* Transaction analysis
+* Risk scoring
+* Risk classification
+* Suspicious transaction detection
+* Decision generation
+
+### Hybrid Risk Engine
+
+Combines:
+
+```text
+             TRANSACTION
+                  │
+          ┌───────┴────────┐
+          ▼                ▼
+     ML MODEL          RULE ENGINE
+          │                │
+          └───────┬────────┘
+                  ▼
+             RISK SCORE
+                  │
+                  ▼
+          DECISION ENGINE
+          ┌────┬────┬────┐
+          ▼    ▼    ▼
+       APPROVE REVIEW BLOCK
+```
+
+### Explainable AI
+
+The platform is designed to move beyond:
+
+> "Risk Score = 0.87"
+
+toward:
+
+> **Why did the system produce this result?**
+
+This includes:
+
+* contributing features
+* risk signals
+* model outputs
+* rule contributions
+* human-readable explanations
+
+### Merchant Intelligence
+
+* Merchant history
+* Merchant risk signals
+* Transaction patterns
+* Aggregated behavior
+
+### Device Intelligence
+
+* Device identification
+* Device history
+* Suspicious device behavior
+* User/device relationships
+
+### Investigation
+
+```text
+Transaction
+     ↓
+Case
+     ↓
+Assignment
+     ↓
+Evidence
+     ↓
+Investigation
+     ↓
+Decision
+     ↓
+Audit Trail
+```
+
+### AI Copilot
+
+Designed to provide contextual risk assistance while respecting application authorization.
+
+---
+
+## Technology
+
+`Python` `FastAPI` `Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `Machine Learning` `AI/LLMs` `Docker` `REST APIs`
+
+---
+
+# 03 · CampusAgent AI
+
+## Agentic AI Student Productivity Platform
+
+> **CampusAgent AI combines academic productivity, agentic AI, document intelligence, RAG, vector search, quizzes, study planning, and AI evaluation into one student platform.**
+
+<div align="center">
+
+### 🌐 Live Demo
+
+**https://campusagent-ai.vercel.app/**
+
+### 📖 API Documentation
+
+**https://campusagent-ai-backend.onrender.com/docs**
+
+### 💻 Source Code
+
+**https://github.com/AnzarKhan855/campusagent-ai**
+
+</div>
+
+---
+
+## Problem
+
+Students often use separate applications for:
+
+* assignments
+* attendance
+* notes
+* PDFs
+* reminders
+* study plans
+* quizzes
+* AI tools
+
+CampusAgent AI brings these workflows into one intelligent academic workspace.
+
+---
+
+## Agentic Architecture
+
+```mermaid
+flowchart TD
+
+    USER["Student"]
+
+    UI["Next.js Student Workspace"]
+
+    AGENT["AI Command Agent"]
+
+    TASK["Tasks & Assignments"]
+    STUDY["Study Planner"]
+    QUIZ["Quiz / Practice Engine"]
+    DOC["Document Intelligence"]
+    ATT["Attendance"]
+    NOTES["Notes"]
+
+    RAG["RAG Pipeline"]
+    EMB["Sentence Transformer Embeddings"]
+    QDRANT["Qdrant Vector Search"]
+    LLM["Groq LLM"]
+
+    DB["MongoDB Atlas"]
+    MEMORY["Agent Memory"]
+
+    USER --> UI
+    UI --> AGENT
+
+    AGENT --> TASK
+    AGENT --> STUDY
+    AGENT --> QUIZ
+    AGENT --> DOC
+    AGENT --> ATT
+    AGENT --> NOTES
+
+    DOC --> RAG
+    RAG --> EMB
+    EMB --> QDRANT
+    QDRANT --> LLM
+
+    AGENT --> MEMORY
+    UI --> DB
+
+    style USER fill:#111827,color:#fff
+    style AGENT fill:#164e63,color:#fff
+    style RAG fill:#312e81,color:#fff
+    style QDRANT fill:#7c2d12,color:#fff
+    style LLM fill:#047857,color:#fff
+```
+
+---
+
+## Core Features
+
+### Academic Management
 
 * Subjects
 * Assignments
 * Attendance
-* Academic Analytics
-* PDF Library
-* Student Dashboard
-* JWT Authentication
+* Tasks
+* Reminders
+* Study plans
+* Notes
 
-### 🛠️ Stack
+### AI
 
-`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `MongoDB Atlas` `Groq` `Hugging Face` `Qdrant`
+* AI command agent
+* AI question generation
+* AI answer evaluation
+* Practice tests
+* Weak-topic analysis
+* AI-powered study assistance
 
----
-
-# 🤖 EvalMentor AI
-
-### AI Interview Preparation Platform
-
-> Helping students prepare for technical interviews through **LLM-powered questions, answer evaluation, and personalized feedback.**
-
-<div align="center">
-
-<a href="https://evalmentor-ai.vercel.app">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/AnzarKhan855/evalmentor-ai">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-### Features
-
-* 📄 Resume Parsing
-* 🤖 AI Interview Questions
-* 🧠 AI Answer Evaluation
-* 🎯 Personalized Feedback
-* 📊 Interview Analytics
-* 🔐 JWT Authentication
-* ⚡ Groq LLM
-
-### 🛠️ Stack
-
-`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `MongoDB Atlas` `Groq`
-
----
-
-# 📄 Resume Builder
-
-### ATS-Friendly Resume Platform
-
-> Full-stack resume creation platform with authentication, structured resume data, professional templates, and PDF export.
-
-<div align="center">
-
-<a href="https://anzarkhanresume-builder.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/AnzarKhan855/resume-builder">
-<img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-### Features
-
-* 📝 Resume Builder
-* 🎨 Professional Templates
-* 🤖 ATS-Friendly Formatting
-* 🔐 JWT Authentication
-* 📄 PDF Export
-* 💾 Persistent Data
-* 📱 Responsive UI
-
-### 🛠️ Stack
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB` `JWT`
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
-
-<br/><br/>
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind" />
-
-<br/><br/>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs" />
-
-<br/><br/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-
-<br/><br/>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
-
-</div>
-
-### 🤖 AI / Data
+### Document Intelligence
 
 ```text
-LLMs
-RAG
-Vector Search
-Qdrant
-Groq
-Hugging Face
+PDF
+ │
+ ▼
+PyMuPDF
+ │
+ ▼
+Text Extraction
+ │
+ ▼
+Chunking
+ │
+ ▼
 Sentence Transformers
-Prompt Engineering
-AI Agents
-Agentic AI
-Machine Learning
-Forecasting
-Anomaly Detection
-Recommendation Systems
+ │
+ ▼
+Vector Embeddings
+ │
+ ▼
+Qdrant
+ │
+ ▼
+Semantic Retrieval
+ │
+ ▼
+Groq LLM
+ │
+ ▼
+Grounded Answer
 ```
 
 ---
 
-# 🧩 Engineering Skills
+## Technology
 
-<table>
-<tr>
-<td width="50%">
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `MongoDB Atlas` `JWT` `Groq` `Qdrant` `Sentence Transformers` `PyMuPDF`
 
-### 🤖 AI Engineering
+---
+
+# 04 · EvalMentor AI
+
+## AI Interview Preparation & Evaluation Platform
+
+> **EvalMentor AI uses resume intelligence and LLMs to generate personalized technical interview questions and evaluate candidate answers.**
+
+<div align="center">
+
+### 🌐 Live Demo
+
+**https://evalmentor-ai.vercel.app/**
+
+### 📖 API Documentation
+
+**https://evalmentor-ai.onrender.com/docs**
+
+### 💻 Source Code
+
+**https://github.com/AnzarKhan855/evalmentor-ai**
+
+</div>
+
+---
+
+## End-to-End Interview Pipeline
+
+```mermaid
+flowchart LR
+
+    RESUME["Candidate Resume"]
+    PARSER["PDF Parser"]
+    PROFILE["Candidate Profile"]
+    QUESTIONS["AI Question Generation"]
+    ANSWER["Candidate Answer"]
+    EVAL["AI Evaluation"]
+    FEEDBACK["Feedback"]
+    ANALYTICS["Performance Analytics"]
+
+    RESUME --> PARSER
+    PARSER --> PROFILE
+    PROFILE --> QUESTIONS
+    QUESTIONS --> ANSWER
+    ANSWER --> EVAL
+    EVAL --> FEEDBACK
+    FEEDBACK --> ANALYTICS
+
+    style RESUME fill:#111827,color:#fff
+    style QUESTIONS fill:#312e81,color:#fff
+    style EVAL fill:#7c3aed,color:#fff
+    style ANALYTICS fill:#047857,color:#fff
+```
+
+---
+
+## Core Features
+
+### Resume Intelligence
+
+* PDF upload
+* Text extraction
+* Technical skill identification
+* Project extraction
+* Structured candidate information
+
+### Interview Intelligence
+
+* Resume-based question generation
+* Role-specific questions
+* Technical questions
+* Candidate answer submission
+* AI evaluation
+
+### Evaluation
+
+The evaluation workflow is designed around multiple dimensions:
+
+```text
+Candidate Answer
+      │
+      ├── Technical Accuracy
+      ├── Relevance
+      ├── Completeness
+      ├── Clarity
+      └── Overall Quality
+              │
+              ▼
+       AI Feedback Engine
+              │
+              ▼
+       Improvement Guidance
+```
+
+---
+
+## Technology
+
+`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `MongoDB Atlas` `JWT` `PyMuPDF` `Groq`
+
+---
+
+# 05 · Resume Builder
+
+## ATS-Friendly Resume Engineering Platform
+
+> **My first major full-stack project — a resume-building platform combining structured resume creation, authentication, templates, PDF generation, and document parsing.**
+
+<div align="center">
+
+### 💻 Source Code
+
+**https://github.com/AnzarKhan855/resume-builder**
+
+### 🌐 Live Demo
+
+**https://anzarkhanresume-builder.vercel.app/**
+
+</div>
+
+---
+
+## Why This Project Matters
+
+Resume Builder represents the foundation of my full-stack development journey.
+
+It introduced:
+
+* authentication
+* CRUD architecture
+* document processing
+* PDF generation
+* database persistence
+* frontend/backend integration
+* reusable UI components
+* structured data extraction
+
+---
+
+## Resume Processing Pipeline
+
+```mermaid
+flowchart TD
+
+    UPLOAD["Resume Upload"]
+    VALIDATE["File Validation"]
+    PARSE["PDF / DOCX Parsing"]
+    EXTRACT["Information Extraction"]
+    STRUCTURE["Structured Resume Data"]
+    CONFIDENCE["Field-Level Confidence"]
+    TEMPLATE["ATS Template"]
+    PDF["PDF Generation"]
+
+    UPLOAD --> VALIDATE
+    VALIDATE --> PARSE
+    PARSE --> EXTRACT
+    EXTRACT --> STRUCTURE
+    STRUCTURE --> CONFIDENCE
+    CONFIDENCE --> TEMPLATE
+    TEMPLATE --> PDF
+
+    style UPLOAD fill:#111827,color:#fff
+    style EXTRACT fill:#312e81,color:#fff
+    style TEMPLATE fill:#164e63,color:#fff
+    style PDF fill:#047857,color:#fff
+```
+
+---
+
+## Advanced Parsing Work
+
+The project evolved beyond basic resume CRUD.
+
+The parsing system includes concepts such as:
+
+* PDF text extraction
+* DOCX validation
+* scanned-PDF detection
+* structured section extraction
+* education recognition
+* project recognition
+* certification recognition
+* location recognition
+* field-level confidence
+* automated parsing tests
+* ATS-oriented templates
+
+---
+
+## Technology
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `MongoDB` `JWT` `PDF Processing`
+
+---
+
+# 06 · BookStore SQL Analysis
+
+## SQL-Based Business Analytics
+
+> **A data analytics project focused on using SQL to extract business insights from bookstore data.**
+
+### 💻 Repository
+
+**https://github.com/AnzarKhan855/BookStore-SQL-Analysis**
+
+---
+
+## Analytical Workflow
+
+```text
+             RAW DATA
+                │
+                ▼
+        DATABASE STRUCTURE
+                │
+                ▼
+          SQL EXPLORATION
+                │
+       ┌────────┼────────┐
+       ▼        ▼        ▼
+   CUSTOMERS   BOOKS   ORDERS
+       │        │        │
+       └────────┼────────┘
+                ▼
+         BUSINESS METRICS
+                │
+       ┌────────┼────────┐
+       ▼        ▼        ▼
+    REVENUE   SALES   CUSTOMER
+             ANALYSIS  INSIGHTS
+```
+
+---
+
+## Core SQL Concepts
+
+* SELECT
+* WHERE
+* GROUP BY
+* ORDER BY
+* JOIN
+* Aggregations
+* Subqueries
+* Filtering
+* Business metrics
+* Customer analysis
+* Sales analysis
+* Revenue analysis
+
+---
+
+# Project Architecture Comparison
+
+| Project            | Domain                 | AI | Backend | Database                   | Live              | API Docs |
+| ------------------ | ---------------------- | -: | ------- | -------------------------- | ----------------- | -------- |
+| **RiskShield AI**  | Risk / Fraud           |  ✓ | FastAPI | MongoDB                    | 🚧 In Development | —        |
+| **DecisionLens**   | Enterprise Analytics   |  ✓ | FastAPI | MongoDB / SQLite / Parquet | ✓                 | ✓        |
+| **CampusAgent AI** | EdTech / Agents        |  ✓ | FastAPI | MongoDB / Qdrant           | ✓                 | ✓        |
+| **EvalMentor AI**  | Interview AI           |  ✓ | FastAPI | MongoDB                    | ✓                 | ✓        |
+| **Resume Builder** | Full Stack / Documents |  ✓ | Node.js | MongoDB                    | ✓                 | —        |
+| **BookStore SQL**  | Data Analytics         |  — | SQL     | Relational                 | —                 | —        |
+
+---
+
+# Architecture Evolution
+
+```mermaid
+flowchart LR
+
+    R["Resume Builder"]
+    E["EvalMentor AI"]
+    C["CampusAgent AI"]
+    D["DecisionLens"]
+    S["RiskShield AI"]
+
+    R -->|"Full-Stack Foundations"| E
+    E -->|"LLM Applications"| C
+    C -->|"Agents + RAG"| D
+    D -->|"Enterprise Intelligence"| S
+    S -->|"Risk + Explainability"| FUTURE["Next-Generation AI Systems"]
+
+    style R fill:#111827,color:#fff
+    style E fill:#172554,color:#fff
+    style C fill:#164e63,color:#fff
+    style D fill:#312e81,color:#fff
+    style S fill:#7f1d1d,color:#fff
+    style FUTURE fill:#047857,color:#fff
+```
+
+---
+
+# Cross-Project Engineering Patterns
+
+Across these projects, I repeatedly work with the same engineering principles.
+
+### Authentication
+
+```text
+User
+ ↓
+Credentials
+ ↓
+Validation
+ ↓
+JWT
+ ↓
+Protected Routes
+ ↓
+RBAC / Authorization
+```
+
+### AI Pipeline
+
+```text
+Input
+ ↓
+Validation
+ ↓
+Preprocessing
+ ↓
+Context / Features
+ ↓
+AI / ML
+ ↓
+Evaluation
+ ↓
+Structured Output
+ ↓
+User Interface
+```
+
+### Production API
+
+```text
+Request
+ ↓
+Authentication
+ ↓
+Authorization
+ ↓
+Validation
+ ↓
+Business Logic
+ ↓
+Database / AI / Analytics
+ ↓
+Response
+ ↓
+Logging / Audit
+```
+
+---
+
+# Data → Intelligence → Decision
+
+A common theme across my portfolio is transforming raw information into useful decisions.
+
+```mermaid
+flowchart LR
+
+    DATA["DATA"]
+    PROCESS["PROCESSING"]
+    ANALYTICS["ANALYTICS"]
+    AI["AI / ML"]
+    INSIGHT["INSIGHT"]
+    DECISION["DECISION"]
+    ACTION["ACTION"]
+
+    DATA --> PROCESS
+    PROCESS --> ANALYTICS
+    ANALYTICS --> AI
+    AI --> INSIGHT
+    INSIGHT --> DECISION
+    DECISION --> ACTION
+
+    style DATA fill:#111827,color:#fff
+    style PROCESS fill:#1e3a8a,color:#fff
+    style ANALYTICS fill:#312e81,color:#fff
+    style AI fill:#6b21a8,color:#fff
+    style INSIGHT fill:#7c2d12,color:#fff
+    style DECISION fill:#991b1b,color:#fff
+    style ACTION fill:#047857,color:#fff
+```
+
+This pattern appears differently in each project:
+
+| Project        | Data                    | Intelligence                | Outcome             |
+| -------------- | ----------------------- | --------------------------- | ------------------- |
+| Resume Builder | Resume documents        | Document parsing            | Structured resume   |
+| EvalMentor     | Resume + answers        | LLM evaluation              | Interview feedback  |
+| CampusAgent    | Academic documents/data | Agents + RAG                | Student assistance  |
+| DecisionLens   | Business datasets       | Analytics + forecasting     | Executive decisions |
+| RiskShield     | Transactions            | ML + rules + explainability | Risk decisions      |
+| BookStore SQL  | Sales/customer data     | SQL analytics               | Business insights   |
+
+---
+
+# Engineering Domains
+
+<div align="center">
+
+| 🤖 AI          | ⚙️ Backend   | 🌐 Full Stack | 📊 Data     |
+| -------------- | ------------ | ------------- | ----------- |
+| LLMs           | FastAPI      | Next.js       | SQL         |
+| RAG            | REST APIs    | React         | Pandas      |
+| Agents         | JWT          | TypeScript    | DuckDB      |
+| Embeddings     | RBAC         | Tailwind      | Forecasting |
+| Explainability | MongoDB      | Responsive UI | Power BI    |
+| AI Evaluation  | API Security | Dashboards    | Excel       |
+
+</div>
+
+---
+
+# System Design Thinking
+
+I increasingly approach applications as interconnected systems rather than isolated pages.
+
+```text
+                         ┌───────────────────────┐
+                         │       USERS           │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                    ┌────────────────────────────┐
+                    │       PRESENTATION         │
+                    │ Next.js / React / Tailwind │
+                    └─────────────┬──────────────┘
+                                  │
+                                  ▼
+                    ┌────────────────────────────┐
+                    │       API / SERVICES        │
+                    │ FastAPI / Node / REST      │
+                    └─────────────┬──────────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             ▼                    ▼                    ▼
+       ┌──────────┐        ┌────────────┐       ┌────────────┐
+       │ DATABASE │        │ AI / ML    │       │ ANALYTICS  │
+       └────┬─────┘        └─────┬──────┘       └─────┬──────┘
+            │                    │                    │
+            └────────────────────┼────────────────────┘
+                                 ▼
+                    ┌────────────────────────────┐
+                    │      BUSINESS LOGIC        │
+                    └─────────────┬──────────────┘
+                                  ▼
+                    ┌────────────────────────────┐
+                    │   INTELLIGENT OUTCOMES     │
+                    └────────────────────────────┘
+```
+
+---
+
+# My Development Loop
+
+```mermaid
+flowchart LR
+    A["BUILD"] --> B["TEST"]
+    B --> C["BREAK"]
+    C --> D["DEBUG"]
+    D --> E["IMPROVE"]
+    E --> F["SECURE"]
+    F --> G["DEPLOY"]
+    G --> H["MONITOR"]
+    H --> A
+```
+
+> **Build it. Test it. Break it. Fix it. Ship it.**
+
+---
+
+# Current Technical Focus
+
+I am currently strengthening my capabilities in:
+
+### Software Engineering
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Backend Engineering
+* REST API Architecture
+* System Design
+* Software Testing
+
+### Artificial Intelligence
 
 * LLM Applications
-* RAG Pipelines
-* Vector Search
-* Embeddings
-* AI Agents
+* RAG
 * Agentic AI
-* Prompt Engineering
-* AI Recommendations
-* Document Intelligence
+* AI Evaluation
+* Explainable AI
+* ML Pipelines
+* AI-powered automation
 
-</td>
+### Data
 
-<td width="50%">
-
-### ⚙️ Backend Engineering
-
-* FastAPI
-* Django
-* REST APIs
-* JWT
-* RBAC
-* OTP
-* CORS
-* Database Integration
-* Caching
-* API Architecture
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🌐 Full Stack
-
-* Next.js
-* React
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Responsive UI
-* Authentication
-* Dashboards
-
-</td>
-
-<td>
-
-### 📊 Data Engineering
-
-* Python
-* Pandas
-* NumPy
 * SQL
-* MySQL
-* PostgreSQL
-* Excel
-* Power BI
-* Matplotlib
-* EDA
+* Data Analytics
+* Business Intelligence
+* Forecasting
+* Data Visualization
+* Decision Intelligence
 
-</td>
-</tr>
-</table>
+### Production Engineering
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnzarKhan855&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzarKhan855&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnzarKhan855&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%"/>
-
-</div>
+* Docker
+* Cloud deployment
+* API security
+* Authentication
+* Authorization
+* Observability
+* Performance engineering
 
 ---
 
-# 🔥 GitHub Contribution Activity
+# Career Direction
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnzarKhan855&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnzarKhan855&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github.com/AnzarKhan855/AnzarKhan855/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
-# 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AnzarKhan855/AnzarKhan855/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 📊 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnzarKhan855&theme=tokyonight" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnzarKhan855&theme=tokyonight" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnzarKhan855&theme=tokyonight" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnzarKhan855&theme=tokyonight" width="32%"/>
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=AnzarKhan855&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
+I am interested in opportunities involving:
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│             🧠 ADVANCED RAG                   │
-│                    ↓                          │
-│             🤖 AGENTIC AI                     │
-│                    ↓                          │
-│             🔗 LANGGRAPH                      │
-│                    ↓                          │
-│             🏗️ SYSTEM DESIGN                 │
-│                    ↓                          │
-│             ⚙️ PRODUCTION AI                  │
-│                    ↓                          │
-│             ☁️ CLOUD ARCHITECTURE             │
-│                                               │
-└───────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────┐
+│                                                   │
+│                 AI ENGINEERING                    │
+│                      │                            │
+│          ┌───────────┼───────────┐                │
+│          ▼           ▼           ▼                │
+│       SOFTWARE     BACKEND      DATA              │
+│       ENGINEERING  ENGINEERING  ANALYTICS         │
+│          │           │           │                │
+│          └───────────┼───────────┘                │
+│                      ▼                            │
+│             INTELLIGENT SYSTEMS                  │
+│                                                   │
+└───────────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
 
-# 🎓 Training & Certifications
-
-| Training               | Platform / Organization |
-| ---------------------- | ----------------------- |
-| 🧠 DSA Training        | In-house Training       |
-| 🌐 HTML & CSS Bootcamp | 2024                    |
-| 🤖 AI Tools Workshop   | be10x                   |
-| 📊 Data Analytics      | Coursera                |
-
----
-
-# 🎯 Open To
+# GitHub Portfolio
 
 <div align="center">
 
-### 💻 Software Engineering
-
-### 🤖 AI Engineering
-
-### 🌐 Full Stack Development
-
-### ⚙️ Backend Engineering
-
-### 🧠 AI / ML Engineering
-
-### 📊 Data Analytics
+| Project                       | Repository                                                                  | Live                                                          | API                                                                    |
+| ----------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| 🛡️ **RiskShield AI**         | [GitHub](https://github.com/AnzarKhan855/riskshield-ai)                     | 🚧 In Development                                             | —                                                                      |
+| 🧠 **DecisionLens**           | [GitHub](https://github.com/AnzarKhan855/decisionlens-enterprise-analytics) | [Live](https://decisionlens-enterprise-analytics.vercel.app/) | [Swagger](https://decisionlens-enterprise-analytics.onrender.com/docs) |
+| 🎓 **CampusAgent AI**         | [GitHub](https://github.com/AnzarKhan855/campusagent-ai)                    | [Live](https://campusagent-ai.vercel.app/)                    | [Swagger](https://campusagent-ai-backend.onrender.com/docs)            |
+| 🤖 **EvalMentor AI**          | [GitHub](https://github.com/AnzarKhan855/evalmentor-ai)                     | [Live](https://evalmentor-ai.vercel.app/)                     | [Swagger](https://evalmentor-ai.onrender.com/docs)                     |
+| 📄 **Resume Builder**         | [GitHub](https://github.com/AnzarKhan855/resume-builder)                    | [Live](https://anzarkhanresume-builder.vercel.app/)           | —                                                                      |
+| 📚 **BookStore SQL Analysis** | [GitHub](https://github.com/AnzarKhan855/BookStore-SQL-Analysis)            | —                                                             | —                                                                      |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# GitHub Analytics
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anzar-khan-522b712ab/">
-<img src="https://img.shields.io/badge/LinkedIn-Anzar_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=AnzarKhan855&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzarKhan855&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AnzarKhan855&theme=tokyonight&hide_border=true" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnzarKhan855&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnzarKhan855&theme=tokyonight" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnzarKhan855&theme=tokyonight" width="32%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnzarKhan855&theme=tokyonight" width="32%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnzarKhan855&theme=tokyonight" width="32%" />
+
+</div>
+
+---
+
+# Repository Map
+
+```text
+AnzarKhan855/
+│
+├── 🛡️ riskshield-ai
+│   └── AI Risk & Fraud Intelligence
+│
+├── 🧠 decisionlens-enterprise-analytics
+│   └── Enterprise Decision Intelligence
+│
+├── 🎓 campusagent-ai
+│   └── Agentic AI Student Platform
+│
+├── 🤖 evalmentor-ai
+│   └── AI Interview Evaluation
+│
+├── 📄 resume-builder
+│   └── ATS Resume Engineering
+│
+├── 📚 BookStore-SQL-Analysis
+│   └── SQL Business Analytics
+│
+├── 🌐 portfolio
+│   └── Personal Portfolio
+│
+└── 🧩 leetcode-solutions
+    └── DSA Practice
+```
+
+---
+
+# Project Maturity Map
+
+```text
+                    PROJECT MATURITY
+
+                         ▲
+                         │
+                 RISKSHIELD AI
+                         │
+                DECISIONLENS
+                         │
+               CAMPUSAGENT AI
+                         │
+                EVALMENTOR AI
+                         │
+                RESUME BUILDER
+                         │
+              BOOKSTORE SQL
+                         │
+                         └──────────────────────►
+                          ENGINEERING COMPLEXITY
+```
+
+---
+
+# What These Projects Demonstrate
+
+### Resume Builder
+
+**Full-stack fundamentals**
+
+Authentication · CRUD · document processing · PDF generation · database integration
+
+### EvalMentor AI
+
+**AI application engineering**
+
+LLMs · resume intelligence · evaluation · FastAPI · MongoDB
+
+### CampusAgent AI
+
+**Agentic AI engineering**
+
+Agents · RAG · embeddings · vector search · document intelligence · AI memory
+
+### DecisionLens
+
+**Enterprise analytics engineering**
+
+Large datasets · DuckDB · forecasting · KPIs · recommendations · decision intelligence
+
+### RiskShield AI
+
+**AI + security + risk engineering**
+
+ML risk scoring · hybrid rules · explainability · transaction intelligence · investigation · auditability
+
+### BookStore SQL Analysis
+
+**Data fundamentals**
+
+SQL · joins · aggregations · business analytics · structured data analysis
+
+---
+
+# Technical Philosophy
+
+```text
+                 ┌────────────────────────┐
+                 │     SOLVE THE PROBLEM   │
+                 └────────────┬───────────┘
+                              │
+                              ▼
+                 ┌────────────────────────┐
+                 │     DESIGN THE SYSTEM   │
+                 └────────────┬───────────┘
+                              │
+                              ▼
+                 ┌────────────────────────┐
+                 │      BUILD THE CORE     │
+                 └────────────┬───────────┘
+                              │
+                              ▼
+                 ┌────────────────────────┐
+                 │       ADD INTELLIGENCE  │
+                 └────────────┬───────────┘
+                              │
+                              ▼
+                 ┌────────────────────────┐
+                 │      TEST + SECURE      │
+                 └────────────┬───────────┘
+                              │
+                              ▼
+                 ┌────────────────────────┐
+                 │        DEPLOY           │
+                 └────────────┬───────────┘
+                              │
+                              ▼
+                 ┌────────────────────────┐
+                 │       ITERATE           │
+                 └────────────────────────┘
+```
+
+---
+
+# Connect
+
+<div align="center">
 
 <a href="https://github.com/AnzarKhan855">
-<img src="https://img.shields.io/badge/GitHub-AnzarKhan855-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-AnzarKhan855-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="mailto:anzark964@gmail.com">
-<img src="https://img.shields.io/badge/Email-anzark964%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/anzar-khan-522b712ab/">
+<img src="https://img.shields.io/badge/LinkedIn-Anzar%20Khan-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
 
 ---
 
-# 🚀 Featured Links
-
 <div align="center">
 
-| 🚀 Project            |                            🌐 Live                           |                          💻 Code                         |
-| :-------------------- | :----------------------------------------------------------: | :------------------------------------------------------: |
-| 🧠 **DecisionLens**   | [Live](https://decisionlens-enterprise-analytics.vercel.app) |                             —                            |
-| 🎓 **CampusAgent AI** |           [Live](https://campusagent-ai.vercel.app)          | [GitHub](https://github.com/AnzarKhan855/campusagent-ai) |
-| 🤖 **EvalMentor AI**  |           [Live](https://evalmentor-ai.vercel.app)           |  [GitHub](https://github.com/AnzarKhan855/evalmentor-ai) |
-| 📄 **Resume Builder** |      [Live](https://anzarkhanresume-builder.vercel.app/)     | [GitHub](https://github.com/AnzarKhan855/resume-builder) |
+### AI · Software Engineering · Data · Analytics · Intelligent Systems
 
-</div>
-
----
-
-# ⚡ My Developer Loop
-
-<div align="center">
-
-```text
-        💡 BUILD
-           ↓
-        🐛 BREAK
-           ↓
-        🔍 DEBUG
-           ↓
-        🧠 LEARN
-           ↓
-        ⚡ IMPROVE
-           ↓
-        🚀 DEPLOY
-           ↓
-        📊 MEASURE
-           ↓
-        🔁 REPEAT
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 💙 Thanks for visiting my profile!
-
-### ⭐ Explore my repositories • Try my projects • Let's connect
+**Building systems that turn data into intelligence and intelligence into action.**
 
 <br/>
 
-**Building AI. Shipping Products. Learning Every Day. 🚀**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:06b6d4&height=120&section=footer" width="100%" />
 
 </div>
